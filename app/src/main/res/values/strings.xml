@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoComplete</string>
+    <string-array name="fruits">
+        <item>Orange</item>
+        <item>lemon</item>
+        <item>kiwi</item>
+        <item>pear</item>
+        <item>melon</item>
+        <item>watermelon</item>
+        <item>apple</item>
+        <item>apricot</item>
+        <item>lime</item>
+        <item>pineapple</item>
+
+    </string-array>
+</resources>
